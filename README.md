@@ -5,7 +5,7 @@ Hi! Chances are, if you're here, you likely came from one of my following profil
 - [osu!](https://osu.ppy.sh/users/18842927)
 - [YouTube](https://www.youtube.com/@Parceling/)
 
-This page is meant to showcase my online presence. The URL to this page is https://parceling.github.io/.
+This page is meant to showcase my online presence. The URL to this page is [https://parceling.github.io/](https://parceling.github.io/).
 
 ## Roblox
 
@@ -27,7 +27,7 @@ For comparison, there are at least 1.6 million combinations for 4 letter usernam
 I originally changed my username because my old username, "luckyboy12222222" was pretty bad and hard to remember. Even if display names would have been a thing, I may still have chosen to pay 1000 Robux to change it to the this name.
 
 ## osu!
-[osu!](https://osu.ppy.sh/) is a rhythm game you can download. There are four different modes:
+[osu!](https://osu.ppy.sh/) is a rhythm game you can download online. There are four different modes:
 
 1. standard
 2. mania
@@ -40,7 +40,7 @@ I specifically play mania. osu!mania is similar to games such as Friday Night Fu
 
 **How Do I Pronounce Your Name?**
 
-Please see this video: https://youtu.be/wxWiZOlMRMY?t=27.
+Please see [this video](https://youtu.be/wxWiZOlMRMY?t=27).
 
 ## Last Updated
 This page was last updated 1 January 2025.
